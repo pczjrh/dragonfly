@@ -1,0 +1,12 @@
+{
+  "manual_override": false,
+  "reason": "Set true for maintenance",
+  "expires_at": null
+}
+
+// FORMAT OF OVERRIDE DATE
+// {
+//   "manual_override": true,
+//   "reason": "Daytime testing",
+//   "expires_at": "2026-07-26T18:00:00+01:00"
+// }
